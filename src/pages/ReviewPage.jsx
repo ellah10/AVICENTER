@@ -9,7 +9,7 @@ const ReviewPage = () => {
 
   const handleReview = () => {
     window.location.href =
-      "https://search.google.com/local/writereview?placeid=ChIJGeHl8ffhIxAR8JGF08VNM80";
+      "https://search.google.com/local/writereview?placeid=ChIJmST2a3VVIxAR4ctNv6Pptno";
   };
 
   return (
