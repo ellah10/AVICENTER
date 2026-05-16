@@ -123,13 +123,13 @@ const ReviewPage = () => {
               rel="noopener noreferrer"
               className="whatsapp-btn">
                 <FaWhatsapp />
-              +228 70 43 11 11
+              +229 0190114628
             </a>
-            <a href="https://wa.me/22899761010" target="_blank"
+            {/* <a href="https://wa.me/22899761010" target="_blank"
               rel="noopener noreferrer"
               className="whatsapp-btn"><FaWhatsapp />
               +228 99 76 10 10
-              </a>
+              </a> */}
           </div>
         </div>
     <a href="mailto:togo@avicenter.fr">
