@@ -76,14 +76,14 @@ const ReviewPage = () => {
             <h3>Suivez-nous</h3>
             <ul>
               <li>
-                <a href="https://www.facebook.com/share/1Czg1nJwRj/?mibextid=wwXIfr"  target="_blank"
+                <a href="https://www.facebook.com/share/1CouMavjSM/?mibextid=wwXIfr"  target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Facebook">
                     <FaFacebook />
                   </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/avicenter_togo_officiel?igsh=MWpkZWxjeWhzb2g5YQ==" target="_blank"
+                <a href="https://www.instagram.com/avicenter.benin?igsh=eHFsdjRqZ3Z0dzZq&utm_source=qr" target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Instagram">
                     <FaInstagram />
@@ -95,7 +95,7 @@ const ReviewPage = () => {
                   aria-label="YouTube"><FaYoutube /></a>
               </li>
               <li>
-                <a href="https://www.tiktok.com/@avicenter_togo?_r=1&_t=ZS-96KIWhC9YIP" target="_blank"
+                <a href="https://www.tiktok.com/@avicenter.benin?_r=1&_t=ZN-96UnCodmsfW" target="_blank"
                   rel="noopener noreferrer"
                   aria-label="TikTok">
                     <FaTiktok />
