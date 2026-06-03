@@ -132,9 +132,9 @@ const ReviewPage = () => {
               </a> */}
           </div>
         </div>
-    <a href="mailto:togo@avicenter.fr">
+    <a href="mailto:avicentercotonou@gmail.com">
       <Mail size={15} />
-      togo@avicenter.fr
+      avicentercotonou@gmail.com
     </a>
   </div>
 
